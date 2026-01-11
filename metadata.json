@@ -1,0 +1,5 @@
+{
+  "name": "Twining Flower Garden",
+  "description": "A high-fidelity 3D generative art experience featuring procedural twining flora. Uses Gemini 2.5 to generate garden configurations based on mood, rendered with React Three Fiber and cinematic post-processing.",
+  "requestFramePermissions": []
+}
